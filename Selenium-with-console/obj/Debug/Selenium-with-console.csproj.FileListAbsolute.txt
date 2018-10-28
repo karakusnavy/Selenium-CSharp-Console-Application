@@ -1,0 +1,8 @@
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\bin\Debug\Selenium-with-console.exe.config
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\bin\Debug\Selenium-with-console.exe
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\bin\Debug\Selenium-with-console.pdb
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\obj\Debug\Selenium-with-console.csprojResolveAssemblyReference.cache
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\obj\Debug\Selenium-with-console.exe
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\obj\Debug\Selenium-with-console.pdb
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\bin\Debug\WebDriver.dll
+C:\Users\Samet\Desktop\Selenium-with-console\Selenium-with-console\bin\Debug\WebDriver.xml
